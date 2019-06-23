@@ -15,3 +15,8 @@
 ## Round 3
 Your understanding in terms of big data application. 
 Designing problems.
+- Design application to generate number plate of the vechile. Contraint - Design should be generic as number plate should not only be for indian numbers. 
+
+- If there are multiple sensors which are sending billions of messages per second how will you handle such load. 
+
+
