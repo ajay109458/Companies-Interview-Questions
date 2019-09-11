@@ -1,0 +1,11 @@
+## Round 1
+1. Given two sorted array, each of size n. You have find the nth element combinig both of the array. 
+2. Find the local minima in the array. 
+3. Given a X-Y plane, there are many lines in the plane which are intersecting each other. A guy is sitting at the +Y axis at
+the infinite distance. How many lines will be visible to him. 
+
+## Round 2
+1. Given a string with duplicate characters, you have to remove all duplicate characters. 
+2. What is difference between complete tree, full tree and balanced tree. 
+3. Given a 2D matrix with 0 and 1. Find the maximum size of 2D sub matrix with all 1s. 
+4. In fibonacii series find sum of F(1) + F(2) + ......... + F(N)
